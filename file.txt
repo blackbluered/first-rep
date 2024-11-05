@@ -1,3 +1,1 @@
-第一个文:件
-<<<<<<< HEAD
-very goo
+very goog
