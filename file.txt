@@ -1,2 +1,4 @@
 第一个文件
-no good:
+<<<<<<< HEAD
+very good
+>>>>>>> masterOne
