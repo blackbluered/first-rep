@@ -1,4 +1,3 @@
 第一个文件
 <<<<<<< HEAD
 very good
->>>>>>> masterOne
